@@ -4,6 +4,9 @@
 
 Hey jackiepal!
 adding test message to trigger sast check
+
+adding message 2 for copilot commit msg testing
+
 Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
 Remember, it's self-paced so feel free to take a break! ☕️
